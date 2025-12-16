@@ -1,6 +1,4 @@
-# System-Design
-# SYSTEM DESIGN — COMPLETE STUDY ROADMAP
-
+# SYSTEM DESIGN: COMPLETE STUDY ROADMAP
 (Industry-standard, used by all real companies)
 
 ---
